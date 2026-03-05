@@ -67,10 +67,3 @@ Minimum value detection
 
 Standard deviation computation
 
-▶ How to Run the Project
-1️⃣ Install required libraries
-pip install pandas numpy
-2️⃣ Navigate to the project folder
-cd electronics_sales_project
-3️⃣ Run the main program
-python sales_analysis.py
